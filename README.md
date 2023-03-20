@@ -12,9 +12,9 @@ Creation of a copy of the dataset
 
 Data Cleaning like:
 
-· Remove duplicates of data
+- Remove duplicates of data
 
-· Replacing the abbreviated rows with better understandable words (e.g. : S for singles , M for Married in the marital statue column and M for Male ,F for female in the gender column) etc.
+- Replacing the abbreviated rows with better understandable words (e.g. : S for singles , M for Married in the marital statue column and M for Male ,F for female in the gender column) etc.
 
 Using the IF clause to classify the Ages into Age brackets
 
